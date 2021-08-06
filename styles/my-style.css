@@ -1,0 +1,15 @@
+.style-1 {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#style-2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2em;
+    /* em,pt,px, cm*/
+    color: chartreuse;
+}
+h2,p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+}
